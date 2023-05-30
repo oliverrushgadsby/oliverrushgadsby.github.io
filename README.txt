@@ -1,1 +1,1 @@
-This is my HTML Online CV for my University Assignment
+This is my HTML Online CV 
